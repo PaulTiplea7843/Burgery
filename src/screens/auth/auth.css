@@ -1,0 +1,77 @@
+.img {
+  width: 100%;
+  position: absolute;
+}
+.card {
+  background-color: #131313;
+  margin-top: 140px;
+}
+.progressBar {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  height: 5px;
+}
+.card-body {
+  padding-right: 5vw;
+  padding-left: 5vw;
+  text-align: center;
+  width: 100%;
+}
+.text-center {
+  color: #f2a83b;
+  font-weight: bold;
+  font-size: 36px;
+}
+.h4 {
+  font-size: 24px;
+  text-align: center;
+  color: white;
+}
+.form-control {
+  width: 100%;
+  background-color: #c4c4c4;
+}
+.link {
+  padding-top: -65px;
+  color: white !important;
+}
+.first-button {
+  width: 100%;
+  max-width: 200px;
+  margin-top: 15px;
+  background-color: #f2a83b !important;
+  border-color: #f2a83b !important;
+}
+.second-button {
+  width: 100%;
+  max-width: 200px;
+  margin-top: 15px;
+  background-color: #4c4c4c !important;
+  border-color: #4c4c4c !important;
+  margin-bottom: 20px;
+}
+.first-tag {
+  font-size: 14px;
+  color: white;
+  text-align: left;
+  max-width: 87%;
+  float: right;
+  font-weight: 200;
+}
+.radio {
+  border: 5px solid #0dff92;
+  margin-right: 20px;
+  float: right;
+  margin-top: 10;
+}
+
+/*Id-s*/
+
+#login-link {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+#submitPassword {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

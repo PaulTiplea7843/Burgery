@@ -1,0 +1,10 @@
+@font-face {
+  font-family: postcodeFont;
+  src: url(postcode.otf);
+}
+
+input[type="tel"] {
+  font-family: postcodeFont;
+  font-size: 25px;
+  font-weight: 200;
+}
